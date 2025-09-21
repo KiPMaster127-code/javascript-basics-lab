@@ -1,5 +1,5 @@
 let studentName = "Mikhail";
-let studentAge = 21;
+let studentAge = 24;
 let isEnrolled = true;
 
 console.log("Name:", studentName);
@@ -34,3 +34,4 @@ console.log("Not equal:", 9 !== 5);
 console.log("AND:", true && false);
 console.log("OR:", true || false);
 console.log("NOT:", !true);
+
